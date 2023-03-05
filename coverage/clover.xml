@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1677728980588" clover="3.2.0">
-  <project timestamp="1677728980588" name="All files">
-    <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1" elements="4" coveredelements="3" complexity="0" loc="1" ncloc="1" packages="1" files="1" classes="1"/>
-    <file name="checkFactor.ts" path="/home/jason/Desktop/Algo/answers/checkFactor/checkFactor.ts">
-      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
-      <line num="21" count="2" type="cond" truecount="1" falsecount="1"/>
+<coverage generated="1677998246211" clover="3.2.0">
+  <project timestamp="1677998246211" name="All files">
+    <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="2" coveredelements="2" complexity="0" loc="1" ncloc="1" packages="1" files="1" classes="1"/>
+    <file name="numToString.ts" path="/home/jason/Desktop/Algo/answers/numToString/numToString.ts">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="14" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
